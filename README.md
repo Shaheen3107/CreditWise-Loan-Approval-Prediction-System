@@ -71,6 +71,7 @@ Logistic Regression performed the best and was selected as the final model.
 creditwise-loan-prediction/
 │
 ├── Creditwise_Loan_system.ipynb
+├── Creditwise_Loan_system.py
 ├── dataset.csv
 ├── model.pkl
 ├── requirements.txt
@@ -112,5 +113,6 @@ jupyter notebook Creditwise_Loan_system.ipynb
 ## Author
 
 Shaheen Saiyad
+
 
 Machine Learning Enthusiast
