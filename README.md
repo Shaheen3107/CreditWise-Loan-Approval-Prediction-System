@@ -112,7 +112,8 @@ jupyter notebook Creditwise_Loan_system.ipynb
 
 ## Author
 
-Shaheen Saiyad
+Shaheen Akram
 
 
 Machine Learning Enthusiast
+
